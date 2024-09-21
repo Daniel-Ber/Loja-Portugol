@@ -125,11 +125,6 @@ se(escolhas[0] == 4 ){
 
 
 
-
-
-
-
-
 	funcao vazio mensagesFunction(){
 	//Mensagem Principal 
 mensage[0] = "  No momento possuimos os produtos : "+produtos[0][0]+" (1) ,"+produtos[0][1]+" (2) ,"+produtos[0][2] + " (3) e " +produtos[0][3] + " (4)."   
@@ -361,14 +356,4 @@ funcao vazio repetirCompra(){
 	}
 	
 }
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 5455; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = {escolhas, 4, 18, 8}-{carrinho, 4, 46, 8}-{valorPagar, 4, 60, 10};
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
+
