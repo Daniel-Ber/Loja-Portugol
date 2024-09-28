@@ -39,8 +39,6 @@ programa
 		escreva("Por motivos legais, o(a) usuario(a) não está autorizado a comprar nesta loja .")
 	}
 	senao{
-	idade = 0 
-		
 	
 	se( sexo == 'H'){
 		escreva("\n ------------------------- \n")
@@ -121,11 +119,6 @@ se(escolhas[0] == 4 ){
 	
 
 }
-
-
-
-
-
 
 
 
@@ -361,14 +354,4 @@ funcao vazio repetirCompra(){
 	}
 	
 }
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 5455; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = {escolhas, 4, 18, 8}-{carrinho, 4, 46, 8}-{valorPagar, 4, 60, 10};
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
+
